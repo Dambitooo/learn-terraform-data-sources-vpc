@@ -1,9 +1,11 @@
 terraform {
+  /*
   cloud {
     workspaces {
       name = "learn-terraform-data-sources-vpc"
     }
   }
+*/
 
   required_providers {
     aws = {
